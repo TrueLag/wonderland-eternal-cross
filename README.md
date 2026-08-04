@@ -1,3 +1,5 @@
+<img width="96" height="96" alt="image" src="https://github.com/user-attachments/assets/0fa25e07-1507-4c93-9b61-41b2425b7c6e" />
+
 ## _(Addon mod for [Wonderland.jar](https://modrinth.com/mod/wonderland-jar).)_
 
 ### Adds 3 new items to the Wonderland.jar horror mod:
