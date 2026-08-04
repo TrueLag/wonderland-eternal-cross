@@ -7,7 +7,7 @@
 ### Adds 4 new items to the Wonderland.jar horror mod:
 - Wooden Cross: Unpowered. Power up to make the Eternal Cross.
 - **Eternal Cross**: Use on any wonderland.jar entity to banish it permanently!
-- Spirit Compass: Shows banishment progress (e.g. "0 / 36", meaning entities banished so far). Doubles down as a danger radar, as it will flash red if there is any Wonderland.jar entity in a radius of 100 blocks.
+- Spirit Compass: Shows banishment progress (e.g. "0 / 36", meaning entities banished so far). Doubles down as a danger radar, as it will flash red if there is any Wonderland.jar entity in a radius of 100 blocks. Also, the needle will point towards the nearest entity found in this range.
 - Banishment Log: A written book that keeps track of all the names of the currently banished entities.
 
 ---
