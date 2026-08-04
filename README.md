@@ -11,7 +11,7 @@
 - Banishment Log: A written book that keeps track of all the names of the currently banished entities.
 
 ---
-## If you find any bugs please report them in the Issues tab above, thanks!
+## For **bug reports** or **content suggestions** please use the Issues tab above, thanks!
 ### Recipes:
 
 You need a silver cross and 4 oak planks to make an unpowered wooden cross. In order to make it able to turn into an Eternal Cross, you must power it up by embedding to it 1 diamond, 1 amethyst shard and 1 crystal shard. Afterwards, you can charge the fully powered wooden cross with as many banishments as you like, with each costing 4 silver ingots _(can be charged with up to 3 uses at a time)_.
