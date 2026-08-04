@@ -26,6 +26,9 @@ You need a silver cross and 4 oak planks to make an unpowered wooden cross. In o
 ![Eternal Cross 2](https://cdn.modrinth.com/data/cached_images/cf25a0b532e596e51324415ef79209b4cbe5475b.png)
 
 ![Spirit Compass](https://cdn.modrinth.com/data/cached_images/3201ea2e70c0c77cb6f0b6f93a2b99fa594d87dc.png)
+
+<img width="672" height="310" alt="Banishment Log" src="https://github.com/user-attachments/assets/6baa69f8-23ec-44a6-9058-3359ada3f6e3" />
+
 ---
 
 Many values can be configured through the config file of the mod (normal banishment distance, stalker banishment distance, eternal cross usage cooldown, toggle of proximity banishment etc).
