@@ -27,3 +27,25 @@ You need a silver cross and 4 oak planks to make an unpowered wooden cross. In o
 Many values can be configured through the config file of the mod (normal banishment distance, stalker banishment distance, eternal cross usage cooldown, toggle of proximity banishment etc).
 
 (Config found at: **_.minecraft/config/wonderlandeternalcross-common.toml)_**
+
+---
+## Eternal Cross
+-> Normal Banishment
+
+![Banishment](https://cdn.modrinth.com/data/cached_images/21cecbc16df9fdd389bcbdc52f1d47e4ddd1e265.gif)
+
+-> Allows for the long distance banishment of specific stalker entities that cannot be approached!
+
+![Stalker Banishment](https://cdn.modrinth.com/data/cached_images/982d92b833421d5dfb5bfda2baf355d0e0cd4a32.gif)
+
+-> Automatic proximity banishment for extra safety!
+
+![Automatic Proximity Banishment](https://cdn.modrinth.com/data/cached_images/e85cf712d224aeb0cb7df6cacf01cb230c30dd10.gif)
+
+---
+## Spirit Compass
+![Spirit Compass](https://cdn.modrinth.com/data/cached_images/d196e2ab3a73749d37c274cb58fd1656ffd7b49c.jpeg)
+
+![Spirit Compass Danger](https://cdn.modrinth.com/data/cached_images/f6f20c97e7d55715f64e0cabbf755e40acda473c.jpeg)
+
+![Spirit Compass After Banishment](https://cdn.modrinth.com/data/cached_images/3bf530e50df33d1fcbcf571bc9a1e7ee1519a554.jpeg)
