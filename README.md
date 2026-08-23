@@ -12,9 +12,7 @@
 
 ---
 ## For **bug reports** or **content suggestions** please use the Issues tab above, thanks!
-### Recipes:
-
-
+### Latest Recipes: ![v3.0.2.1_001](https://github.com/TrueLag/wonderland-eternal-cross/blob/main/Recipes/v3.0.2.1_001/README.md)
 
 ---
 
