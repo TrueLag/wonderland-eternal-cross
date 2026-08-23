@@ -8,10 +8,8 @@ You need a silver cross, silver cinder and 7 oak planks to make an unpowered woo
 
 <img width="654" height="148" alt="Wooden Cross Repair 3" src="https://github.com/user-attachments/assets/63c58fb8-c60d-4ceb-a62d-08b4ebc67b83" />
 
-![Eternal Cross 1](https://cdn.modrinth.com/data/cached_images/390bd6e87e6abd33a5a97a4425d53439e3f3fca3.png)
+<img width="670" height="304" alt="Wooden Cross to Eternal Cross" src="https://github.com/user-attachments/assets/614b74fc-23df-4db2-ac7d-07035344dd46" />
 
-![Eternal Cross 2](https://cdn.modrinth.com/data/cached_images/cf25a0b532e596e51324415ef79209b4cbe5475b.png)
-
-![Spirit Compass](https://cdn.modrinth.com/data/cached_images/3201ea2e70c0c77cb6f0b6f93a2b99fa594d87dc.png)
+<img width="505" height="219" alt="Spirit Compass" src="https://github.com/user-attachments/assets/3fab9f9e-8c0d-4e4a-94da-87e69488e995" />
 
 <img width="672" height="310" alt="Banishment Log" src="https://github.com/user-attachments/assets/6baa69f8-23ec-44a6-9058-3359ada3f6e3" />
