@@ -1,5 +1,7 @@
 You need a silver cross, silver cinder and 7 oak planks to make an unpowered wooden cross. In order to make it able to turn into an Eternal Cross, you must power it up by embedding to it 1 diamond, 1 amethyst shard and 1 crystal shard. Afterwards, you can charge the fully powered wooden cross with as many banishments as you like, with each costing 4 silver ingots _(can be charged with up to 3 uses at a time)_.
 
+I forgot to add images on how to create the item in the slot above the center in the first image below. It is Silver Cinder and you can make it by smelting a "th e cr os s" (the broken version of an inactive "The Cross"). In order to help with this, yet another recipe has been added which gives you the ability to place an INACTIVE "The Cross" (the black one) into a stonecutter and turn it into its required broken form "th e cr os s" (in case you find a normal inactive cross first instead of the broken one).
+
 <img width="704" height="304" alt="wonderlandeternalcross_wooden_cross" src="https://github.com/user-attachments/assets/1c4cb52f-bc2d-4268-836a-47107471ba41" />
 
 <img width="654" height="148" alt="Wooden Cross Repair 1" src="https://github.com/user-attachments/assets/4b1f6af4-c7b8-437d-995b-28f67ce3e843" />
